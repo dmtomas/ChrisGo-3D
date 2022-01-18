@@ -1,0 +1,2 @@
+C:\Users\Tomas\source\repos\3DCube\Debug\3DCube.exe.lastcodeanalysissucceeded
+C:\Users\Tomas\source\repos\3DCube\3DCube\Debug\NativeCodeAnalysis.read.1.tlog

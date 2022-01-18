@@ -1,0 +1,78 @@
+﻿  Start.cpp
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(26,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(51,1): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(52,1): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(139,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(139,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(139,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(139,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(140,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(140,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(140,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(140,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(141,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(141,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(141,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(141,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(142,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(142,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(142,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(142,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(143,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(143,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(143,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(143,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(144,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(144,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(144,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(144,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(145,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(145,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(145,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(145,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(146,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(146,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(146,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(146,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(147,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(147,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(147,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(147,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(148,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(148,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(148,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(148,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(149,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(149,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(149,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(149,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(150,99): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(150,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(150,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Objects.h(150,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(28,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(29,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(50,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(63,79): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(63,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(63,63): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(63,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(69,79): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(69,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(69,63): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(69,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(91,27): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(112,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(114,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(115,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(122,32): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(146,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Start.cpp(67,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Tomas\source\repos\3DCube\3DCube\Start.cpp(67,26): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Microsoft (R) Incremental Linker Version 14.29.30137.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  "/OUT:C:\Users\Tomas\source\repos\3DCube\Debug\3DCube.exe" /INCREMENTAL "/ILK:Debug\3DCube.ilk" "/LIBPATH:C:\Program Files\SDL2\lib\x86" SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\Tomas\source\repos\3DCube\Debug\3DCube.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\Tomas\source\repos\3DCube\Debug\3DCube.lib" /MACHINE:X86 Debug\Start.obj 
+  3DCube.vcxproj -> C:\Users\Tomas\source\repos\3DCube\Debug\3DCube.exe
+C:\Program Files\SDL2\include\SDL_rect.h(102): warning C26812: El tipo de enumeración "SDL_bool" no tiene ámbito. Prefiera "enum class" a "enum" (Enum.3).
+C:\Users\Tomas\source\repos\3DCube\3DCube\Terrain.h(24): warning C26495: La variable "Chunck::jugador" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).
+C:\Users\Tomas\source\repos\3DCube\3DCube\Start.cpp(12): warning C26495: La variable "Game::window" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).
